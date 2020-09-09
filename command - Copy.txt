@@ -1,0 +1,55 @@
+CreateTraining: width:120,height:120,type:RGB 
+Input: image:slika0.jpg, identity:angel 
+Input: image:slika1.jpg, identity:grimace 
+Input: image:slika2.jpg, identity:happy 
+Input: image:slika3.jpg, identity:cold
+Input: image:slika4.jpg, identity:sunglasses
+Input: image:slika5.jpg, identity:cryinglaughter
+Input: image:slika6.jpg, identity:star
+Input: image:slika7.jpg, identity:angel 
+Input: image:slika8.jpg, identity:grimace 
+Input: image:slika9.jpg, identity:happy 
+Input: image:slika10.jpg, identity:cold
+Input: image:slika11.jpg, identity:sunglasses
+Input: image:slika12.jpg, identity:cryinglaughter
+Input: image:slika13.jpg, identity:star
+Input: image:slika14.jpg, identity:angel 
+Input: image:slika15.jpg, identity:grimace 
+Input: image:slika16.jpg, identity:happy 
+Input: image:slika17.jpg, identity:cold
+Input: image:slika18.jpg, identity:sunglasses
+Input: image:slika19.jpg, identity:cryinglaughter
+Input: image:slika20.jpg, identity:star
+Input: image:slika21.jpg, identity:angel 
+Input: image:slika22.jpg, identity:grimace 
+Input: image:slika23.jpg, identity:happy 
+Input: image:slika24.jpg, identity:cold
+Input: image:slika25.jpg, identity:sunglasses
+Input: image:slika26.jpg, identity:cryinglaughter
+Input: image:slika27.jpg, identity:star
+Input: image:slika28.jpg, identity:angel 
+Input: image:slika29.jpg, identity:grimace 
+Input: image:slika30.jpg, identity:happy 
+Input: image:slika31.jpg, identity:cold
+Input: image:slika32.jpg, identity:sunglasses
+Input: image:slika33.jpg, identity:cryinglaughter
+Input: image:slika34.jpg, identity:star
+Input: image:slika35.jpg, identity:angel 
+Input: image:slika36.jpg, identity:grimace 
+Input: image:slika37.jpg, identity:happy 
+Input: image:slika38.jpg, identity:cold
+Input: image:slika39.jpg, identity:sunglasses
+Input: image:slika40.jpg, identity:cryinglaughter
+Input: image:slika41.jpg, identity:star
+Input: image:slika42.jpg, identity:angel 
+Input: image:slika43.jpg, identity:grimace 
+Input: image:slika44.jpg, identity:happy 
+Input: image:slika45.jpg, identity:cold
+Input: image:slika46.jpg, identity:sunglasses
+Input: image:slika47.jpg, identity:cryinglaughter
+Input: image:slika48.jpg, identity:star
+Network: hidden1:10, hidden2:10
+Train: Mode:console, Minutes:5, StrategyError:0.25, StrategyCycles:50 
+Whatis: image:slika5.jpg
+Whatis: image:slika15.jpg
+Whatis: image:slika25.jpg
