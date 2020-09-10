@@ -1,3 +1,3 @@
 # Emoji recognizer
 
-Program prepoznaje emotikone sa slike koristeči programski okvir Encog za izradu neuronske mreže.
+Program prepoznaje emotikone sa slike koristeći programski okvir Encog za izradu neuronske mreže.
